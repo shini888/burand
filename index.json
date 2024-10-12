@@ -121,8 +121,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 77259,
-            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/required/capes-1.5.4+1.20.5-fabric.temp.jar",
+            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/optionaloff/capes-1.5.4+1.20.5-fabric.temp.jar",
             "MD5": "9c087563add513747594ffc8d01023bc"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -131,8 +135,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 73169,
-            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/required/chat_heads-0.13.3-fabric-1.20.6.temp.jar",
+            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/optionaloff/chat_heads-0.13.3-fabric-1.20.6.temp.jar",
             "MD5": "c356905ba99be22f2d20a032f73f1aed"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -141,8 +149,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2784419,
-            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/required/CustomPlayerModels-Fabric-1.20.6-0.6.19a.temp.jar",
+            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/optionaloff/CustomPlayerModels-Fabric-1.20.6-0.6.19a.temp.jar",
             "MD5": "0063e516b4916dec2dd1c141e6e4dd46"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -151,8 +163,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 178793,
-            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/required/dynamic-fps-3.7.3+minecraft-1.20.5-fabric.temp.jar",
+            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/optionaloff/dynamic-fps-3.7.3+minecraft-1.20.5-fabric.temp.jar",
             "MD5": "a743bd0008c47565206eebc8019ec14d"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -161,8 +177,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2230715,
-            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/required/fabric-api-0.99.4+1.20.6.temp.jar",
+            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/optionaloff/fabric-api-0.99.4+1.20.6.temp.jar",
             "MD5": "42478748f033622cf9afcae8e8228744"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -171,8 +191,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7137406,
-            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/required/fabric-language-kotlin-1.12.3+kotlin.2.0.21.temp.jar",
+            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/optionaloff/fabric-language-kotlin-1.12.3+kotlin.2.0.21.temp.jar",
             "MD5": "dba35c1bf0daa7845df6aa8e3df1a424"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -181,8 +205,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3857522,
-            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/required/feather-fabric-1.20.6-1.0.0-SNAPSHOT.temp.jar",
+            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/optionaloff/feather-fabric-1.20.6-1.0.0-SNAPSHOT.temp.jar",
             "MD5": "53bb533d156015929b7e0a401cb31561"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -191,8 +219,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 247876,
-            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/required/ImmediatelyFast-Fabric-1.2.21+1.20.6.temp.jar",
+            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/optionaloff/ImmediatelyFast-Fabric-1.2.21+1.20.6.temp.jar",
             "MD5": "b4eeea9e1ceb9258e8e52bd7f78ab074"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -201,8 +233,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2711922,
-            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/required/iris-1.7.2+mc1.20.6.temp.jar",
+            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/optionaloff/iris-1.7.2+mc1.20.6.temp.jar",
             "MD5": "46ed28b6db79535ca3ffffcef954ba43"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -211,8 +247,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 163822,
-            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/required/krypton-0.2.7.temp.jar",
+            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/optionaloff/krypton-0.2.7.temp.jar",
             "MD5": "d561fdf5915fe0e0157673f6b1e41eee"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -221,8 +261,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 966865,
-            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/required/modmenu-10.0.0.temp.jar",
+            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/optionaloff/modmenu-10.0.0.temp.jar",
             "MD5": "2571471e3bb5f1c2d63e687d99a63b83"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -231,8 +275,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 230131,
-            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/required/placeholder-api-2.4.0-pre.1+1.20.5.temp.jar",
+            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/optionaloff/placeholder-api-2.4.0-pre.1+1.20.5.temp.jar",
             "MD5": "aa170c0fbc6c55e3ed296dea457b3e44"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -241,8 +289,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 375407,
-            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/required/sodium-extra-0.5.6+mc1.20.6.temp.jar",
+            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/optionaloff/sodium-extra-0.5.6+mc1.20.6.temp.jar",
             "MD5": "3b89d1f8aa90d15a5006cdfdf9f4f61b"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -251,8 +303,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 990829,
-            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/required/sodium-fabric-0.5.11+mc1.20.6.temp.jar",
+            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/optionaloff/sodium-fabric-0.5.11+mc1.20.6.temp.jar",
             "MD5": "e92ce9b8882e2e8a7b7bb773f7b24ec2"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -261,8 +317,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 18929,
-            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/required/togglenametags-2.0.7.temp.jar",
+            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/optionaloff/togglenametags-2.0.7.temp.jar",
             "MD5": "1d10aae1b8f482b5307c377d34376e71"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -271,8 +331,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 6559994,
-            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/required/voicechat-fabric-1.20.6-2.5.20.temp.jar",
+            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/optionaloff/voicechat-fabric-1.20.6-2.5.20.temp.jar",
             "MD5": "bd7b6c1a5ee244bc00a9518d70abd589"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -281,8 +345,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 359612,
-            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/required/waveycapes-fabric-1.4.10-mc1.20.6.temp.jar",
+            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/optionaloff/waveycapes-fabric-1.4.10-mc1.20.6.temp.jar",
             "MD5": "d81d57d9a21a5f368a51a56b6c922f0e"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -291,8 +359,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1150514,
-            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/required/YetAnotherConfigLib-3.5.0+1.20.6-fabric.temp.jar",
+            "url": "https://killersafio.web.app/host/servers/Killersafio-1.20.6/fabricmods/optionaloff/YetAnotherConfigLib-3.5.0+1.20.6-fabric.temp.jar",
             "MD5": "cc18f03262cf5b60721f5e9d816c69e9"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         }
       ]
